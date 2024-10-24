@@ -5,12 +5,16 @@
 
 <h1># WindVelocity</h1>
 <p>This code will plot the best range of speed according to the speed of wind (negative value is head wind and positive is tail wind)</p>
+<img src="Wind.jpg">
 
 <h1># TurnRate</h1>
 <p>This plot will show the range in which the airplane can have the rate of turn for maneuvering</p>
+<img src="(Turn Rate) Manoeuvre Boundaries.jpg">
 
 <h1># ROC</h1>
 <p>This plot will show the range in which the airplane can have the rate of climb for take-off based on altitude</p>
+<img src="ROC.jpg">
 
 <h1># ManoeuvreEnvelope</h1>
 <p>This plot will show the manoeuvre envelope in which the range of load factor the airplane can withstand in different velocities can be shown</p>
+<img src="Manoeuvre Envelope.jpg">
